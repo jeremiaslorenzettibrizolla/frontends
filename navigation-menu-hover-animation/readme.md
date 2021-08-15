@@ -1,0 +1,1 @@
+<img src="./img/navigation-menu-hover-animation.png" alt="">

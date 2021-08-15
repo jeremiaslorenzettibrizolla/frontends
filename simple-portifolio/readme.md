@@ -1,1 +1,0 @@
-<img src="./img/simple-portifolio.png" alt="">
