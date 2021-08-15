@@ -1,1 +1,1 @@
-<video src="./media/cards-hover-effects.mp4"></video>
+<img src="./img/cards-hover-effects.png"></img>
