@@ -1,1 +1,1 @@
-<img src="./images/product-card.png" alt="">
+<img src="./images/product-card.gif" alt="">
